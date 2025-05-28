@@ -1,0 +1,11 @@
+feedparser            # Parses RSS and Atom feeds (used for reading Google News RSS feeds)
+pandas                # Data manipulation and analysis (used to store, transform, and export articles to CSV/XLSX)
+requests              # Handles HTTP requests (used optionally for additional requests beyond feedparser)
+beautifulsoup4        # Parses and cleans HTML/XML content (used for extracting clean text from summaries)
+urllib3               # HTTP client used for connection pooling and retries (used with requests for stable networking)
+supabase              # Supabase Python client (used to connect and write data to Supabase database)
+fastapi               # Lightweight web framework for building APIs (used for building search and update endpoints)
+python-dotenv         # Loads environment variables from a `.env` file (used for accessing secrets like Supabase keys)
+uvicorn               # ASGI server to run FastAPI applications
+textblob              # Simple NLP tool (used for sentiment analysis of article summaries)
+openpyxl              # Excel file reader/writer (required for saving `.xlsx` files with pandas)

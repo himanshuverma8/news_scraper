@@ -1,0 +1,61 @@
+# USA
+http://rss.cnn.com/rss/edition.rss
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+
+# UK
+http://feeds.bbci.co.uk/news/rss.xml
+
+# Canada
+https://www.cbc.ca/cmlink/rss-topstories
+
+# India
+https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+https://www.thehindu.com/news/national/feeder/default.rss
+
+# Australia
+https://www.abc.net.au/news/feed/51120/rss.xml
+
+# Germany
+https://rss.dw.com/rdf/rss-en-top
+
+# France
+https://www.france24.com/en/rss
+
+# Japan
+https://www3.nhk.or.jp/rss/news/cat0.xml
+
+# China
+http://www.xinhuanet.com/english/rss/worldrss.xml
+
+# Singapore
+https://www.straitstimes.com/news/singapore/rss.xml
+
+# Malaysia
+https://www.thestar.com.my/rss/editors-choice
+
+# Indonesia
+https://www.thejakartapost.com/rss
+
+# South Korea
+https://www.koreatimes.co.kr/www/rss/rss.xml
+
+# Russia
+https://www.rt.com/rss/news/
+
+# Brazil
+https://g1.globo.com/dynamo/rss2.xml
+
+# South Africa
+https://feeds.news24.com/articles/news24/TopStories/rss
+
+# UAE
+https://gulfnews.com/rss?generatorName=top-stories
+
+# Qatar
+https://www.aljazeera.com/xml/rss/all.xml
+
+# Turkey
+https://www.hurriyetdailynews.com/rss.asp
+
+# Italy
+https://www.ansa.it/sito/ansait_rss.xml
