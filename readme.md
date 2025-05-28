@@ -144,3 +144,7 @@ uvicorn api:app --host 0.0.0.0 --port 8000 --reload
 - **Language Detection**: Detects the language of articles using the JSON `language` parameter.
 - **Cron Job for Updates**: Implemented a cron job triggered by a `POST /api/update` request, which runs the `rss_scraper_db_save.py` script to refresh the news data in the database.
 - **Hosted on Render**: Deployed the API on Render for live access to fresh news feed data. Access the latest news at: [https://news-scraper-ipfp.onrender.com/api/news/1](https://news-scraper-ipfp.onrender.com/api/news/1).
+## 📸 Preview  
+
+![api callback response](https://res.cloudinary.com/de5vcnanx/image/upload/v1748446438/Screenshot_2025-05-28_at_9.01.42_PM_yz4jxm.png) 
+![api callback response](https://res.cloudinary.com/de5vcnanx/image/upload/v1748446438/Screenshot_2025-05-28_at_9.01.54_PM_clnrqj.png)  
